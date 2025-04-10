@@ -14,7 +14,7 @@ Within each category, the order doesn't have any meaning.
 - [CS183: Startup - Peter Thiel Class Notes](https://blakemasters.tumblr.com/peter-thiels-cs183-startup)
 - [The Marshall Model of Organisational Evolution](https://flowchainsensei.wordpress.com/wp-content/uploads/2019/08/fbwpmmoe51.pdf)
 - [Bob Marshall's Think Different Blog](https://flowchainsensei.wordpress.com/archive-3/) - start from the bottom
-- [Russell Ackoff - U.S. Navy two day training in Thinking, Understanding, and Learning (1 of 8](https://www.youtube.com/watch?v=IK0ivV1GEoU) - watch all 8, not just the first one
+- [Russell Ackoff - U.S. Navy two day training in Thinking, Understanding, and Learning (1 of 8)](https://www.youtube.com/watch?v=IK0ivV1GEoU) - watch all 8, not just the first one
 - [How Too Many Rules at Work Keep You from Getting Things Done | Yves Morieux | TED Talks](https://www.youtube.com/watch?v=t__NoFstCmQ)
 
 ## Great
