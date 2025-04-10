@@ -8,15 +8,14 @@ Within each category, the order doesn't have any meaning.
 - Competing Against Luck: The Story of Innovation and Customer Choice - Clayton M. Christensen, Karen Dillon, Taddy Hall, David S.  Duncan
 - Beyond Command and Control - John Seddon
 - Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Taleb
-- Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships 
- - Marshall B. Rosenberg, Deepak Chopra
- - The Goal: A Process of Ongoing Improvement - Eliyahu M. Goldratt, Jeff Cox
- - Zero to One: Notes on Start Ups, or How to Build the Future - Blake Masters, Peter Thiel
- - [CS183: Startup - Peter Thiel Class Notes](https://blakemasters.tumblr.com/peter-thiels-cs183-startup)
- - [The Marshall Model of Organisational Evolution](https://flowchainsensei.wordpress.com/wp-content/uploads/2019/08/fbwpmmoe51.pdf)
- - [Bob Marshall's Think Different Blog](https://flowchainsensei.wordpress.com/archive-3/) - start from the bottom
- - [Russell Ackoff - U.S. Navy two day training in Thinking, Understanding, and Learning (1 of 8](https://www.youtube.com/watch?v=IK0ivV1GEoU) - watch all 8, not just the first one
- - [How Too Many Rules at Work Keep You from Getting Things Done | Yves Morieux | TED Talks](https://www.youtube.com/watch?v=t__NoFstCmQ)
+- Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships - Marshall B. Rosenberg, Deepak Chopra
+- The Goal: A Process of Ongoing Improvement - Eliyahu M. Goldratt, Jeff Cox
+- Zero to One: Notes on Start Ups, or How to Build the Future - Blake Masters, Peter Thiel
+- [CS183: Startup - Peter Thiel Class Notes](https://blakemasters.tumblr.com/peter-thiels-cs183-startup)
+- [The Marshall Model of Organisational Evolution](https://flowchainsensei.wordpress.com/wp-content/uploads/2019/08/fbwpmmoe51.pdf)
+- [Bob Marshall's Think Different Blog](https://flowchainsensei.wordpress.com/archive-3/) - start from the bottom
+- [Russell Ackoff - U.S. Navy two day training in Thinking, Understanding, and Learning (1 of 8](https://www.youtube.com/watch?v=IK0ivV1GEoU) - watch all 8, not just the first one
+- [How Too Many Rules at Work Keep You from Getting Things Done | Yves Morieux | TED Talks](https://www.youtube.com/watch?v=t__NoFstCmQ)
 
 ## Great
 
@@ -32,8 +31,7 @@ Within each category, the order doesn't have any meaning.
 - Out of the Crisis - W. Edwards Deming
 - Principles: Life and Work - Ray Dalio
 - ReWork: Change the Way You Work Forever - Jason Fried, David Heinemeier Hansson
-- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
-Tom DeMarco
+- Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - Tom DeMarco
 - The Mythical Man-Month: Essays on Software Engineering - Frederick P. Brooks Jr.
 - ["The Puzzle of Motivation" - Dan Pink](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
 
