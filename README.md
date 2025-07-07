@@ -31,7 +31,6 @@ Within each category, the order doesn't have any meaning.
 - The Symphony of Profound Knowledge: W. Edwards Deming’S Score for Leading, Performing, and Living in Concert - Edward Martin Baker
 - The Effective Executive - Peter Drucker
 - Out of the Crisis - W. Edwards Deming
-- Principles: Life and Work - Ray Dalio
 - ReWork: Change the Way You Work Forever - Jason Fried, David Heinemeier Hansson
 - Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - Tom DeMarco
 - The Mythical Man-Month: Essays on Software Engineering - Frederick P. Brooks Jr.
@@ -74,3 +73,4 @@ Within each category, the order doesn't have any meaning.
 - Escaping the Build Trap: How Effective Product Management Creates Real Value - Melissa Perri
 - The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
 - No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings, Erin Meyer
+- Principles: Life and Work - Ray Dalio
