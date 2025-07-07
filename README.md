@@ -8,6 +8,7 @@ Within each category, the order doesn't have any meaning.
 - Competing Against Luck: The Story of Innovation and Customer Choice - Clayton M. Christensen, Karen Dillon, Taddy Hall, David S.  Duncan
 - Beyond Command and Control - John Seddon
 - Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Nicholas Taleb
+- The Black Swan - Nassim Nicholas Taleb
 - Antifragile - Nassim Nicholas Taleb
 - Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships - Marshall B. Rosenberg, Deepak Chopra
 - The Goal: A Process of Ongoing Improvement - Eliyahu M. Goldratt, Jeff Cox
