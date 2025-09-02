@@ -74,3 +74,4 @@ Within each category, the order doesn't have any meaning.
 - The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
 - No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings, Erin Meyer
 - Principles: Life and Work - Ray Dalio
+- Great Leaders Have No Rules: Contrarian Leadership Principles to Transform Your Team and Business - Kevin Kruse
