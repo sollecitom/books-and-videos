@@ -10,6 +10,7 @@ Within each category, the order doesn't have any meaning.
 - Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Nicholas Taleb
 - The Black Swan - Nassim Nicholas Taleb
 - Antifragile - Nassim Nicholas Taleb
+- Skin in the Game - Nassim Nicholas Taleb
 - Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships - Marshall B. Rosenberg, Deepak Chopra
 - The Goal: A Process of Ongoing Improvement - Eliyahu M. Goldratt, Jeff Cox
 - Zero to One: Notes on Start Ups, or How to Build the Future - Blake Masters, Peter Thiel
