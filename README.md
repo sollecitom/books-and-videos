@@ -76,3 +76,4 @@ Within each category, the order doesn't have any meaning.
 - No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings, Erin Meyer
 - Principles: Life and Work - Ray Dalio
 - Great Leaders Have No Rules: Contrarian Leadership Principles to Transform Your Team and Business - Kevin Kruse
+- The Unaccountability Machine - Dan Davies
